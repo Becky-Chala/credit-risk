@@ -42,4 +42,4 @@ Better at finding hidden patterns in data
 Cons:
 Hard to explain
 Regulators may not trust it
-❌ Can be risky if we don’t fully understand how it makes decisions
+Can be risky if we don’t fully understand how it makes decisions
