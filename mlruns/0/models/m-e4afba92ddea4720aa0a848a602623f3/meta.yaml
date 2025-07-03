@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/models/m-e4afba92ddea4720aa0a848a602623f3/artifacts
+creation_timestamp: 1751537348223
+experiment_id: '0'
+last_updated_timestamp: 1751537356606
+model_id: m-e4afba92ddea4720aa0a848a602623f3
+model_type: null
+name: logistic_regression
+source_run_id: a3534a483bf64a54ac876cfb218ed148
+status: 2
+status_message: null

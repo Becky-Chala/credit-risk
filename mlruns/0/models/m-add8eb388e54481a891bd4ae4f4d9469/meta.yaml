@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/models/m-add8eb388e54481a891bd4ae4f4d9469/artifacts
+creation_timestamp: 1751537450369
+experiment_id: '0'
+last_updated_timestamp: 1751537457093
+model_id: m-add8eb388e54481a891bd4ae4f4d9469
+model_type: null
+name: random_forest
+source_run_id: accab473e1a440769b3691a210ec3ae8
+status: 2
+status_message: null

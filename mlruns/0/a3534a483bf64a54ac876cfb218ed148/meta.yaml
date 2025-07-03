@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/a3534a483bf64a54ac876cfb218ed148/artifacts
+end_time: 1751537356711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3534a483bf64a54ac876cfb218ed148
+run_name: nebulous-bee-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751537348135
+status: 3
+tags: []
+user_id: Bereket

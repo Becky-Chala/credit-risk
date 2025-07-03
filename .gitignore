@@ -1,1 +1,38 @@
 data/
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore MLflow artifacts (you only register models, not the local run files)
+mlruns/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (if any)
+.env
+.env.*
+
+# Ignore Docker build cache
+*.tar
+*.img
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore compiled files
+*.so
+*.egg-info/
