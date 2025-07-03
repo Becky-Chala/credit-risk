@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/accab473e1a440769b3691a210ec3ae8/artifacts
+end_time: 1751537457194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: accab473e1a440769b3691a210ec3ae8
+run_name: marvelous-cub-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751537450245
+status: 3
+tags: []
+user_id: Bereket

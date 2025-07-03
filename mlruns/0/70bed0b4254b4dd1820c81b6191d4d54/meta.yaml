@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/70bed0b4254b4dd1820c81b6191d4d54/artifacts
+end_time: 1751568245891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70bed0b4254b4dd1820c81b6191d4d54
+run_name: rumbling-croc-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751568239709
+status: 3
+tags: []
+user_id: Bereket

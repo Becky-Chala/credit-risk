@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/bf1661f93e744ac390d0ba76ba35372d/artifacts
+end_time: 1751568157126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1661f93e744ac390d0ba76ba35372d
+run_name: rumbling-pig-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751568149163
+status: 3
+tags: []
+user_id: Bereket

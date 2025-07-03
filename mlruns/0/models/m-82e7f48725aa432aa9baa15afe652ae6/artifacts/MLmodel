@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/models/m-82e7f48725aa432aa9baa15afe652ae6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-82e7f48725aa432aa9baa15afe652ae6
+model_size_bytes: 514327
+model_uuid: m-82e7f48725aa432aa9baa15afe652ae6
+prompts: null
+run_id: aca9927b5de34f2384f8cee1d43e1a60
+utc_time_created: '2025-07-03 09:00:15.862881'

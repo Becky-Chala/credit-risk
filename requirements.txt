@@ -1,0 +1,11 @@
+pandas
+missingno
+matplotlib.pyplot 
+seaborn
+mlflow
+pytest
+fastapi
+uvicorn
+pydantic
+flake8
+black

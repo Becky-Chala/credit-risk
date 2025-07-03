@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Bereket/Documents/Tenx/Week%205/credit-risk/mlruns/0/7da7f3f8b5ee4d1485dc257a7017b3f0/artifacts
+end_time: 1751533147414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7da7f3f8b5ee4d1485dc257a7017b3f0
+run_name: calm-lynx-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751533126416
+status: 3
+tags: []
+user_id: Bereket
